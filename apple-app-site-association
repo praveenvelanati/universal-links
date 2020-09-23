@@ -1,9 +1,12 @@
 {
+  "appclips": {
+	 "apps": [ "6KBX2U5F58.test.TestApp.pk.Clip" ]
+	},
 	"applinks": {
 		"apps": [],
 		"details": [
 			{
-				"appID": "6KBX2U5F58.com.pk.UniversalLinks",
+				"appID": "6KBX2U5F58.test.TestApp.pk",
 				"paths": [ "*"]
 			}
 		]
