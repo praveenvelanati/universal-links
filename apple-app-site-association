@@ -6,7 +6,7 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "6KBX2U5F58.test.TestApp.pk",
+				"appIDs": ["6KBX2U5F58.pk.multi.one", "6KBX2U5F58.pk.multi.two"],
 				"paths": [ "*"]
 			}
 		]
